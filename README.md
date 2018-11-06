@@ -1,7 +1,5 @@
 # Udacity-Project-4-Feed-Reader-Testing-with-Jasmine
 
-# Udacity-Project-4-Feed-Reader-Jasmine-Testing
-
 # Introduction
 
 It’s important to ensure your applications function the way you intended them to. You can use a testing framework such as Jasmine, that can automate the tasks required to test your code and ensure it is running correctly.
